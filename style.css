@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(53,86,100);
+}
+h1 {margin-left: 100px;
+    margin-top: 50px;
+    font-size: 80px;
+    color: aliceblue;}
+h2 {margin-left: 105px;
+    font-size: 50px;
+    margin-top: 30px;
+    color: aliceblue;
+}
+
+ul {
+  list-style-type: none;
+  margin-left: 770px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: white;
+  border-radius: 10px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 18px 32px;
+  text-decoration: none;
+}
+
+.hr1 {
+width:90%; 
+border-color: black;
+opacity: 0.2;
+}
+
+.happy {
+    margin-left: 85px;
+    color: white;
+    background-color: rgba(0,0,0,0.2);
+}
+
+.para {
+    font-size: 35px;
+ 
+}
+
+.cos {
+    font-size: 50px;
+    border: 1px;
+    font-family: monospace;
+}
+
+.pop2 {
+     line-height: 50px;
+}
+    
